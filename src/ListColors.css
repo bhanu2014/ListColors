@@ -1,0 +1,23 @@
+.colorList {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+    flex-direction: column;
+    border-style: groove;
+}
+
+.colorName {
+    margin: 2%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: blue;
+}
+
+.colorDisplay {
+    margin: 2%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: chocolate;
+}
